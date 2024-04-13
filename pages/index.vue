@@ -30,7 +30,7 @@
                         :overview="tvSeries.overview"
                         :first_air_date="tvSeries.first_air_date"
                         :popularity="tvSeries.popularity"
-                        :item="tv"
+                        :item="tvSeries"
                     />
 
                 </li>

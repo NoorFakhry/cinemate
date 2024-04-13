@@ -16,7 +16,7 @@
             :overview="item.overview"
             :first_air_date="item.first_air_date"
             :popularity="item.popularity"
-            :item="tv"
+            :item="item"
         />
     </div>
 </template>

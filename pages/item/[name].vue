@@ -10,7 +10,7 @@
             :item="item"
         />
 
-        <SeriesCard v-if="first_air_date"
+        <SeriesCard v-if="item.first_air_date"
             :poster_path="item.poster_path"
             :name="item.name"
             :overview="item.overview"
